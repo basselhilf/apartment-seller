@@ -1,6 +1,6 @@
 //You should not be touching this file. This is just your data. 
 //You can certainly explore this file to get to know your data.
-
+// just an array of apartment objects
 const apartments = [
     {
         img: "https://circaoldhouses.com/wp-content/uploads/2017/10/key-hole-house-1.jpg",

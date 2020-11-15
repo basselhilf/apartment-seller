@@ -1,5 +1,5 @@
 //Only start playing with this file if you're done with all the basics
-
+//code that does the filtering
 const must = (radio) => radio.filter(rb => rb.checked).length
 
 const findRelevantApts = function (address, minPrice, maxPrice, minRooms, maxRooms, immediate) {
